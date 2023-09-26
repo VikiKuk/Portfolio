@@ -5,8 +5,8 @@
 
 ### About me:
 - I'm currently learning Pyton
-- I work as a Product owner in Hewlet-Packard
-- I have exellent experience in launching digital products
+- I work as a Product owner in Hewlett-Packard
+- I have excellent experience launching digital products
 - I speak English
 
 ### Reach me:
